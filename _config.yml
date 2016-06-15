@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/Wangui-NMK/Kenya-workshop"
-workshop_site   : "http://wangui-nmk.github.io/Kenya-workshop"
+workshop_repo   : "http://github.com/Wangui-NMK/workshop-template"
+workshop_site   : "http://wangui-nmk.github.io/workshop-template"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
